@@ -7,3 +7,7 @@ Minimum harsware is used:
 
 The project uses API of Pushingbox to send notification to the user.
 
+Whenever the doorbell is pressed the system sends an email,tweet and a notification on the mobile of the user. 
+
+The security system checks for any motion in the absence of the user and sends alerts based on any suspicious activity.
+The data is stored in the cloud for later visualizations. 
